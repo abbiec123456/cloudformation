@@ -38,7 +38,7 @@ Your Lambda function is live and running on AWS!
 
 **Expected Response:**
 ```json
-"Hello from Lambda!"
+"Hello from Abbie!"
 
 
 OutputValue": "https://4d3pp4p0oc.execute-api.eu-west-1.amazonaws.com/dev/myLambdaFunction"
