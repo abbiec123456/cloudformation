@@ -9,11 +9,10 @@ This project demonstrates how to build, deploy, and automate a **serverless REST
 Your Lambda function is live and running on AWS!
 
 **Invoke URL:**  
- [https://1klho955ke.execute-api.us-east-1.amazonaws.com/default/myLambdaFunction](https://1klho955ke.execute-api.us-east-1.amazonaws.com/default/myLambdaFunction)
+ https://xbc3flxofi.execute-api.us-east-1.amazonaws.com/Dev/hello
 
 **Expected Response:**
 ```json
 "Hello from Abbie!"
 
 
-OutputValue": "https://4d3pp4p0oc.execute-api.eu-west-1.amazonaws.com/dev/myLambdaFunction"
