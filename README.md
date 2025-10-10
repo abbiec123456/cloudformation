@@ -1,4 +1,4 @@
-#  AWS Lambda REST API with GitHub Actions and CloudFormation
+#  AWS Lambda REST API with GitHub and CloudFormation
 
 This project demonstrates how to build, deploy, and automate a **serverless REST API** using **AWS Lambda**, **API Gateway**.
 
