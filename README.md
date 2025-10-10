@@ -13,6 +13,6 @@ Your Lambda function is live and running on AWS!
 
 **Expected Response:**
 ```json
-"Hello from Abbie!"
+"Hello Abbie!"
 
 
