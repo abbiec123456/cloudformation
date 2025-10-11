@@ -25,4 +25,7 @@ The goal was to deploy a RESTful API integrated with AWS Lambda and ensure effic
   },
   "body": "{\"message\": \"Hello, Abbie!\"}"
 }
-=======
+---
+
+
+#  Deletion of API & Lambda on aws console to avoid charges. Screenshots provided in both the github folder and Word document.
