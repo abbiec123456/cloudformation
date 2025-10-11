@@ -1,8 +1,8 @@
 import json
 
 def lambda_handler(event, context):
-    # Extract name from query string (?name=Abbie), default to "there"
-    name = event.get('queryStringParameters', {}).get('name', 'there')
+    # Hardcode the name to "Abbie"
+    name = "Abbie"
 
     message = f"Hello, {name}!"
 
@@ -11,4 +11,3 @@ def lambda_handler(event, context):
         'headers': {'Content-Type': 'application/json'},
         'body': json.dumps({'message': message})
     }
-
