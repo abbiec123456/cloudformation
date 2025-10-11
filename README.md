@@ -1,19 +1,27 @@
 #  AWS Lambda REST API with GitHub Actions and CloudFormation
 
-This project demonstrates how to build, deploy, and automate a **serverless REST API** using **AWS Lambda**, **API Gateway**.
+This project demonstrates how to build, deploy, and automate a **serverless REST API** using **AWS Lambda**, **API Gateway**, and **CloudFormation**.
+
+---
+
+## Description
+
+This project was created as part of a ca lab assignment to deepen my understanding of **Lambda and RestAPI** using **AWS CloudFormation**.  
+The goal was to deploy a RESTful API integrated with AWS Lambda and ensure efficient ilities were included such as security.
 
 ---
 
 ##  Live API Endpoint
 
-Your Lambda function is live and running on AWS!
-
 **Invoke URL:**  
- [https://1klho955ke.execute-api.us-east-1.amazonaws.com/default/myLambdaFunction](https://1klho955ke.execute-api.us-east-1.amazonaws.com/default/myLambdaFunction)
+[https://xbc3flxofi.execute-api.us-east-1.amazonaws.com/Dev/hello](https://xbc3flxofi.execute-api.us-east-1.amazonaws.com/Dev/hello)
 
 **Expected Response:**
 ```json
-"Hello from Abbie!"
-
-
-OutputValue": "https://4d3pp4p0oc.execute-api.eu-west-1.amazonaws.com/dev/myLambdaFunction"
+{
+  "statusCode": 200,
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": "{\"message\": \"Hello, Abbie!\"}"
+}
