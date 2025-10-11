@@ -7,7 +7,7 @@ This project demonstrates how to build, deploy, and automate a **serverless REST
 ## Description
 
 This project was created as part of a ca lab assignment to deepen my understanding of **Lambda and RestAPI** using **AWS CloudFormation**.  
-The goal was to deploy a RESTful API integrated with AWS Lambda and ensure efficient ilities were included such as security.
+The goal was to deploy a RESTful API integrated with AWS Lambda and ensure efficient ilities were included such as portability, cost effeciency and maintainability.
 
 ---
 
