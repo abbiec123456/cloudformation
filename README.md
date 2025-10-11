@@ -15,8 +15,7 @@ The goal was to deploy a RESTful API integrated with AWS Lambda and ensure effic
 
 **Invoke URL:**  
 [https://xbc3flxofi.execute-api.us-east-1.amazonaws.com/Dev/hello](https://xbc3flxofi.execute-api.us-east-1.amazonaws.com/Dev/hello)
-#  Deletion of API & Lambda on aws console to avoid charges. Screenshots provided in both the github folder and Word document.
-# The live api has been deleted to avoid any charges on aws, it can be created at anytime using the templates provided.
+
 
 **Expected Response:**
 ```json
@@ -27,7 +26,9 @@ The goal was to deploy a RESTful API integrated with AWS Lambda and ensure effic
   },
   "body": "{\"message\": \"Hello, Abbie!\"}"
 }
----
+
+Deletion of API & Lambda on aws console to avoid charges. Screenshots provided in both the github folder and Word document.
+The live api has been deleted to avoid any charges on aws, it can be created at anytime using the templates provided.
 
 
 
