@@ -14,7 +14,6 @@ The goal was to deploy a RESTful API integrated with AWS Lambda and ensure effic
 ##  Live API Endpoint
 
 **Invoke URL:**  
-<<<<<<< HEAD
 [https://xbc3flxofi.execute-api.us-east-1.amazonaws.com/Dev/hello](https://xbc3flxofi.execute-api.us-east-1.amazonaws.com/Dev/hello)
 
 **Expected Response:**
