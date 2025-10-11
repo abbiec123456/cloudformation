@@ -27,11 +27,3 @@ The goal was to deploy a RESTful API integrated with AWS Lambda and ensure effic
   "body": "{\"message\": \"Hello, Abbie!\"}"
 }
 =======
- https://xbc3flxofi.execute-api.us-east-1.amazonaws.com/Dev/hello
-
-**Expected Response:**
-```json
-"Hello Abbie!"
-
-
->>>>>>> b0e7d29374accc2c89af7cd73131e779b26a29b7
